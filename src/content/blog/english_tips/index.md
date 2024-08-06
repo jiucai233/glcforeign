@@ -22,11 +22,17 @@ tags:
 ### How to obtain an Alien Registration Card (ARC)
 #### Required Documents:
 1.	Certificate of Enrollment: 
-Can be issued through Web Online Transcripts & Certificates Issuance feature on Yonsei Portal 
+Can be issued through Web Online Transcripts & Certificates Issuance feature on Yonsei Portal
+![Test Relative Image](./internet_certificate.png)
+![Test Relative Image](./personal_info.png)
+![Test Relative Image](./online_printing.jpg)
+![Test Relative Image](./certificate_apply.png)
+![Test Relative Image](./vertificate_info.png)
 
 2.	Certificate of Residence:
 Yonsei Portal Log in -> Academic Information System -> Dormitory-> Certificate of Residence (Choose Eng/Kor)
-
+![Test Relative Image](./info_system.png)
+![Test Relative Image](./dorm_confirm.png)
 3.	Passport: Print and submit
 
 4.	Visa
@@ -63,7 +69,8 @@ Documents required for activation
 - Korean bank account
 
 ## 2. Guideline for university application using
-### Yammi 
+### Yammi
+![Test Relative Image](./yammi.png)
 Student restaurant paying application: **online payment method needed**
 The Yammi app is available on both campuses and allows you to pay online for food in the student restaurant. You can also order the thousand won Breakfast, which is an ongoing program at the university in Korea, after your student ID is verified on Yammi. You can also view photos, reviews, and comments about the food. In addition, you can also order online from the school cafe with the Yammi app. You must have a debit card to pay, so a bank card or online payment method is required. 
 #### Guideline for using Yammi application (dorm restaurant, student restaurant, beverage etc.) : 
@@ -73,15 +80,21 @@ Download the Yammi app→ Choose your school (Yonsei University(International))�
 → Add the payment information→ Pay 
 → Get food with QR codes. 
 - The **cash payment is unavailable** on the Yummy app, if you don't have an account or want to pay with cash, you can pay at the cashier at each restaurant/coffee shop.
+
 ### Everytime 
+![Test Relative Image](./everytime.png)
 College student online community: portal account(student number) needed
 Log in by using the Yonsei portal account, and check various post boards. You can get different information by scrolling.
 Another core function is course check.
 You can add the course that you want to take to your schedule, and the visualization of the week schedule will automatically generated. After the semester is finished, input the course grade, and it will be converted into 4.3 standard. After the request is approved by the friend, you can also see your friend's timetable. If you click on a specific class, you can also view evaluations for the class. The reviews are all written by students who have taken the class in the past semesters.
+
 ### mY-seat2
+![Test Relative Image](./mY-seat2.png)
 Library app: portal account(student number) needed
 _‘mY-seat2’ mainly consists of two functions: reserving library seats and reserving access to library facilities. After logging in by using the Yonsei portal account, choose the library, and check all the available seats! After you are assigned to your preferred seat, you will be given a four-hour pass to the seat. When you reserve a library facility, you may be asked to enter your student ID number, and the last four digits of your phone number. And you may also need to input others’ information  depending on the minimum number of people to use the facility.
+
 ### Y-Attend：
+![Test Relative Image](./Y-Attend.png)
 Yonsei University's online attendance system
 At school, there is always an attendance check before the classes. Some classes use electronic attendance to check attendance. The professor in the class will give the student a 4-character numeric code, and the student needs to enter the app, log in, and automatically see a "Please enter the number" screen. If it is successfully entered within time, the attendance will be checked.
 
@@ -102,10 +115,10 @@ Commercial facilities connected to the 1st basement floor of Underwood Memorial 
 #### Delivery room, unmanned delivery box, smile box 
 1st floor of building A and building D
 
-#### mailbox
+#### Mailbox
 It is located in each building. Only building F, building G, building D, is located on the first floor.
 
-#### reading room
+#### Reading room
 1st floor of Dorm 1, building A
 2nd floor of Dorm2, D Building,(above the lounge on the 1st floor) 
 
@@ -115,7 +128,7 @@ Dorm 1 A and B Building 7 (crossing bridge), C Building 1st floor, and 5th floor
 How to book a seminar room: 
 After logging in to Yonsei Port → Academic Information System → dormitory> Seminar room reservation → Living Hall (select from Songdo 1st and 2nd) → Select reservation date, seminar room, and reservation time among available reservation time → Enter event information → Apply 
 
-#### laundry room
+#### Laundry room
 B1F of  building A, building C, Dorm 1
 Female(5th floor of building G) and male(5th floor of building F), Dorm 2
 How to do laundry:
@@ -129,7 +142,7 @@ Payments, etc. are all done with this app.
 B1F of Dorm 1
 1st floor of Dorm 2, building d
 
-#### dormitory restaurant 
+#### Dormitory restaurant 
 1st floor of each dorm building
 
 #### Cafe 
@@ -152,35 +165,40 @@ B1F of the Dorm1
 1st floor of Dorm 1, building B 
 
 ## 4. Destinations near International campus 
+
 ### 1.	Triple Street
-•	Address: 33-3 Songdogwahak-ro 16beon-gil, Yeonsu-gu, Incheon (650m away from Technopark Station Entry 2)
-•	Opening hours: 10:30~22:00
-•	Restaurants, pubs, cafes, cinemas, bowling alleys, arcades, fashion stores, Daiso,...
-•	15 mins walking distance from Songdo Dorm 1
+![Test Relative Image](./3street.jpg)
+- Address: 33-3 Songdogwahak-ro 16beon-gil, Yeonsu-gu, Incheon (650m away from Technopark Station Entry 2)
+- Opening hours: 10:30~22:00
+- Restaurants, pubs, cafes, cinemas, bowling alleys, arcades, fashion stores, Daiso,...
+- 15 mins walking distance from Songdo Dorm 1
 
 ### 2.	Hyundai Premium Outlet Songdo
-•	Address: 123 Songdogukje-daero, Yeonsu-gu, Incheon ( 64m away from Technopark Station Entry 2)
-•	Opening hours: 10:30~21:00
-•	Next to Triple Street
-•	Food court, Kyobo book centre, fashion stores, sport brands,...
+![Test Relative Image](./hyundai.jpg)
+- Address: 123 Songdogukje-daero, Yeonsu-gu, Incheon ( 64m away from Technopark Station Entry 2)
+- Opening hours: 10:30~21:00
+- Next to Triple Street
+- Food court, Kyobo book centre, fashion stores, sport brands,...
 
 ### 3.	Songdo Central Park
-•	Address: 160 Convensia-daero, Yeonsu-gu, Incheon (708m away from Central Park Station Entry 3)
-•	Songdo Central Park is famous for having one of the best lakes for enjoying night views.
-•	Boats for rental
+![Test Relative Image](./songdo_park.jpg)
+- Address: 160 Convensia-daero, Yeonsu-gu, Incheon (708m away from Central Park Station Entry 3)
+- Songdo Central Park is famous for having one of the best lakes for enjoying night views.
+- Boats for rental
 
 ### 4.	Caisson 24 Bakery & Cafe
-•	Address: 20 Convensia-daero 391beon-gil, Yeonsu-gu, Incheon
-•	Opening hours: 9:00~22:00
-•	A great place to enjoy the ocean view and sunset.
+- Address: 20 Convensia-daero 391beon-gil, Yeonsu-gu, Incheon
+- Opening hours: 9:00~22:00
+- A great place to enjoy the ocean view and sunset.
 
 ### 5.	Campus Town Station commercial zone
-•	Address: 50m away from Campus Town Station Entry 2
-•	Restaurants, cafes, pubs, beauty salons,...
+- Address: 50m away from Campus Town Station Entry 2
+- Restaurants, cafes, pubs, beauty salons,...
 
 ## 5. Public Transportation in International Campus and Shuttle Bus Reservation Method 
 
-### 1.	Riding the Shuttle Bus 
+### 1.	Riding the Shuttle Bus
+![Test Relative Image](./shuttle_reservation.png)
 Reservation Method: Yonsei Portal (http://portal.yonsei.ac.kr) –> Int’l Campus Shuttle Bus –> Reservation
 
 Present the “bus reservation receipt” or “reservation text message” received after reserving along with your ID card when boarding the shuttle bus. 
@@ -189,14 +207,16 @@ Seat reservations are opened at 2:00 p.m. two days prior to the designated date.
 
 Shuttle Bus Boarding Location 
 International campus 
+![Test Relative Image](./bus_station_songdo.png)
 Location: Bus stop located across Songdo dorm 1 B building 
 
 Sinchon Campus
+![Test Relative Image](./bus_station_sinchon.jpg)
 Location: The commons underground parking lot (next to starbucks) 
 How to find: use the escalator infront of the Student Union building to go down to the basement floor then turn left and go straight to find a door to the parking lot, pass that door and walk to the right end to find the bus stop. 
 
 
-### 2.	Main Public Transportation around International Campus 
+### 2.  Main Public Transportation around International Campus 
 
 #### Buses: 
 
