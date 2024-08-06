@@ -1,236 +1,248 @@
 ---
-title: "Astro Sphere: Writing Markdown"
-summary: "Basic Markdown syntax that can be used when writing Markdown content in Astro Sphere."
-date: "Mar 13 2024"
+title: "日本语"
+summary: ""
+date: "2024.8.6"
 draft: false
 tags:
 - Tutorial
-- Astro
-- Astro Sphere
-- Markdown
+- 꿀팁
+- 신입생
 ---
+# 目次
+## 1. 各証明及び書類の発行方法
+## 2. 各関連アプリ利用
+## 3. 国際キャンパスおよび寮施設
+## 4. 国際キャンパス周辺の施設紹介
+## 5. 国際キャンパス公共交通機関及びシャトル予約方法
+## 6. GLC各学生会インスタ紹介
+
+
+## 1. 各証明及び書類の発行方法
+### 外国人登録証の発行方法
+準備書類
+1.在学証明書
+-延世ポータルWeb証明書発行で発行できる
+2.居住証明書
+-延世ポータル学士情報システムで寮->入寮確認書で韓国語で発行
+3.パスポート（印刷後に提出）
+4.ビザ
+5.カラー 証明写真 3.5cm×4.5cm
+6.申請書(外国人登録証を団体で申請する場合は不要)
+ 
+**申請方法**
+団体申請の場合
+-必要書類を用意して手数料を納付後、申請
+-学校からのお知らせ
+個人申請の場合
+-ハイコリアで訪問予約をした後、書類を持って行かなければならない。
+-予約はすぐに締め切られる可能性があるので、入国後にすぐに取らなければならない。
+-仁川外国人出入国事務所に行かなければならない。
+ 
+### 銀行口座開設及び携帯電話開通方法
+- 銀行に訪問した後、順番待ち表を取って自分の番号が出るまで待機する。
+- 通帳開設のために職員の案内に従って申込書を作成し書類を提出する。
+- 職員の案内に従って暗証番号を入力し、発給された通帳とカードなどをチェックする。
+ 
+**銀行口座開設時に提出しなければならない文書:**
+- 在学証明書
+- 居住証明書
+- パスポート及び外国人登録証
+ 
+### 携帯電話の開通方法:
+手続き:
+- 通信会社の支店または代理店に外国人登録証のコピーまたはパスポートのコピーを提出し、代理人が申請する場合にはその他にも代理人の身分証を提示しなければならない。
+- 通信会社の代理店やオンラインで携帯電話番号を発行してもらう。
+- 様々な携帯電話の料金プラン タイプを考慮して、自分の必要に応じた料金プランを選択する。
+ 
+**開通時に必要な文書:**
+- 身分証明書(パスポート、外国人登録証など)
+- 韓国の銀行口座
+
+
+## 2. 各関連アプリ利用
+ 
+### Yammi
+ 学生食堂決済アプリ: 銀行カードなどオンライン決済手段が必須
+ヤミーアプリは二つのキャンパスで両方適用でき、学食で食べ物をオンライン決済するアプリ。韓国にある当該大学で行われている「千ウォンの朝ごはん」もヤミーで学生認証を承認された後に注文可能。その他にも、該当料理の写真、レビュー、コメントなどすべて照会することができる。さらに、ヤミーアプリで学校のカフェでオンライン注文も可能。決済機能はチェックカード（デビットカード）がなければできないため、銀行カード、またはオンライン決済手段は必須
+ヤミーアプリの使用方法（寮の食堂、学食、飲料購入）:
+ヤミーアプリをダウンロード
+→学校を選択 (延世大学(国際))
+→ヤミー開始ボタンを押す→ログイン/会員登録(電話番号必須)
+→食堂選び(1寄宿舎、2寄宿舎、Yプラザ、ナヌルセム、カフェ(トレビアン、カフェ＆))
+→メニュー選択後にカートの入れるボタンを押す
+→決済するカード登録
+→決済
+→QRコードで食べ物を受け取る。
+- ヤミーアプリでは**現金決済不可**、口座がない場合や現金で支払い注文する場合は各食堂/コーヒーショップにあるレジで決済可能
+ 
+### Everytime
+ 大学生自己のコミュニティ: 学士アカウント(学番)必須
+延世ポータル(Yonseiportal)のアカウントを通じて登録し、中に各種掲示板が表示されている。この中で様々な情報を照会することができる。
+もう一つの核心機能は授業照会
+自分が好む授業を時間割内に追加し、授業時間割を自動的に視覚化。学期が終わった後に自分が該当授業の成績を入力し、4.3基準の成績が自動的に換算される。リクエストの承認後に友達の時刻表も見ることができる。
+具体的な授業をクリックすると、授業に対する評価も照会可能。評価はすべて、以前にこのクラスを受講した学生によって作成。
+ 
+### mY-seat2
+ 図書館利用アプリ-学士アカウント(学番)必須
+「mY-seat2」は主に図書館の座席予約及び図書館施設利用予約の2つの機能で構成されている。学士アカウントでログインした後、利用図書館を選択すると、利用可能な座席が出てくる。好きな座席を決めた後、4時間の座席利用権が付与される。 図書館施設を予約する場合、施設利用の最小人数に応じて使用者の学番、電話番号の下4桁を入力する場合もある。
+ 
+### Y-Attend
+ 延世大学電子出欠システム
+学校で授業を進める前に、いつも授業出席の確認がある。この時、電子出欠で認証する授業もある。該当授業にいらっしゃる教授が学生に4文字の数字を知らせながら、学生がこのアプリに入ってログイン後に自動的に「数字を入力してください」という画面が表示される。 該当時間内に正しく入力されると、授業認証が完了
+
+
+## 3. 国際キャンパスおよび寮施設
+### アンダーウッド記念図書館 
+一般的に「オンギド」という略称で呼ばれる。 閉館時間は午前0時で出入り口は2つあるが、正面は階段を降りて地下1階のYプラザと連結していて、後面の出入り口は1階の外の裏側に連結している。
+•地下1階 - コミュニティラウンジ:「Creative Talks」というところではTED講義がスクリーンに再生されている。 「アートギャラリー」では様々なスクリーンに多彩な色の写真が展示されている。
+
+### Y-Plaza 
+ オンギドの地下1階とつながる商店街施設。 生活協同組合の商店としてはハヌルセム[売店]、カオンセム[文具店·書店]、カルルセム[食堂]、アルンダウンセム[美容室]、ボントゥルセム[印刷店]があり、眼鏡屋、カフェなど多様な施設がある。
+•1階 - インフォメーション·コモンズ:利用者統合サービスデスクで予約図書、キャンパス貸出図書、相互貸借、付き資料などを受け取ることができる。
+•2階 - マルチメディアセンター: メディア鑑賞室。 閲覧席があり、映画やドラマ、ドキュメンタリーなどのDVDが閲覧できる。 映画の数も多い。 1人部屋、2人部屋ともあり、3人以上は9人部屋、6人部屋の大きさのシネマルームを借りて、スクリーンでDVDを見ることができる。
+•3階 - 協業パーク:グループスタディルーム、PCエクスプレスエリアが位置している。 
+•4階 - 創意閲覧室:講義、新刊、RC推薦図書が備えられている。 「パンセ」という名前の卵形の四色ソファーが9個ある。 パンセに座ると、海の見える環境で4階の様々な雑誌を読むことが出来る。
+•5階 - 資料閲覧室:請求記号000~699番の図書が置いてある。
+•6階 - 資料閲覧室:請求記号700~999番の図書が置いてある。
+•7階 - 国際会議室:セミナー室、無人休憩室、テラスラウンジがある。
+
+### 寮施設 
+#### 宅配ボックス、無人宅配ボックス、スマイルボックス 
+一学士A棟一階
+2学士D棟1階 
+郵便受け
+各棟にあり。 F棟G棟のみD棟1階内にある。 
+
+#### 閲覧室
+1学士A棟1階
+2学士D棟2階(1階休憩室の上にある。) 
+閲覧室の使用方法
+ヨンセポータル→ログイン→学事行政→寮→閲覧室予約 
+#### セミナー室
+1学士AとB棟7階(渡り橋)、C棟1階、5階
+2学士D棟3階 
+セミナー室の予約方法: 
+延世ポータルログイン後→学事情報システム→寮>セミナー室予約→生活館(松島1学士、2学士から選択)→予約日の選択、セミナー室の選択、予約可能時間の中から予約時間を選択→イベント情報入力→申し込み 
+
+#### 洗濯室
+1学士A棟C棟B1階 
+2 学士 G棟 5階 レディース、F棟 5階 メンズ 
+洗濯方法
+1学士
+ランドリーカード 購入
+カードのチャージをして利用可能 
+2学士
+「メタクラブ」アプリをダウンロード
+決済など全部このアプリで行う。
+*外国人登録証、携帯電話認証必須 
+
+#### コンビニ（生協） 
+一学舎 B1階
+2学士D棟1階 
+
+#### 寮食堂 
+一学士紫霞一階 
+2学士D棟1階 
+
+#### カフェ 
+一学士地下一階 
+2学舎D棟1階(寮食堂の中) 
+
+#### 共同キッチン
+1学舎地下1階(寮の食堂の隣に)
+2学士F棟5階(エレベーター4階で降りて非常階段で上がらなければならない) 
+
+#### パソコン室/マルチメディアルーム（印刷機、モノクロ印刷可） 
+1学士A棟一階 
+2学士D棟3階 
+
+#### 卓球/ビリヤード、レクリエーション部屋 
+コミュニティルーム(共同冷蔵庫、ゴミ収集、電子レンジ) 
+1学士地下1階 
+2学士GとD棟の間の1階 
+
+#### ウリィ銀行
+B棟1階
+
+
+## 4. 国際キャンパス周辺の施設紹介
+
+### 1.トリプルストリート
+ㅇ住所:仁川ヨンス区松島科学路16番通り33-1(テクノパーク駅2番出口から650m)
+ㅇ 営業時間:毎日 10:30~22:00
+- 食堂、居酒屋、カフェ、映画館、ボーリング場、ゲームセンター、服屋、ダイソーなど
+- 松島１寄宿舎から徒歩15分で到着
+
+
+### 2.現代プレミアムアウトレット松島店 
+ㅇ 住所:仁川ヨンス区松島国際大路123 現代プレミアムアウトレット松島店(テクノパーク駅2番出口から64m)
+ㅇ 営業時間:毎日 10:30~21:00
+- トリプルストリートの横に現代プレミアムアウトレットがある
+- フードコート、キョボ文庫書店、ヤングファッション及びスポーツブランド等々
+
+
+### 3. 松島セントラルパーク
+ㅇ 住所:仁川ヨンス区コンベンシア大路160 (セントラルパーク駅3番出口から708m)
+- 仁川の夜景スポットである湖のある公園
+- 有料ボート利用可能
+
+
+### 4.ケイスン24 ベーカリー カフェ
+ㅇ 住所 : 仁川市ヨンス区コンベンシア大路391番通り 20 ケイソン24
+ㅇ 営業時間:毎日 9:00~22:00 
+- 美しいオーシャンビューと夕焼けの名所カフェ、そして散歩道
+ 
+### 5. キャンパスタウン駅商圏
+住所:キャンパスタウン駅2番出口から50m
+主に食堂として利用
+マーラータン、カフェ、居酒屋、韓国料理店、美容室などがある
+
+
+## 5. 国際キャンパス公共交通機関及びシャトル予約方法
+
+ 
+### 1. シャトルバス搭乗
+  方法:延世ポータルサービス(http://portal.yonsei.ac.kr ) -> ITサービス -> 国際キャンパスシャトルバス予約
+搭乗時に「バス予約受付証」または予約時に受け取った「携帯電話予約メッセージ」を身分証と一緒に提示してください。
+座席の予約は指定日の2日前の午後2:00から開始されます
+ 
+シャトルバス搭乗位置のご案内
+国際キャンパス
+位置:寮のB棟の向かい側にあるバス停
+ 
+新村キャンパス
+位置:백양누리地下駐車場(スターバックス延世ペクヤン路店の隣)
+探し方:学生会館の前にあるエスカレーターを利用して地下に降り、左折して直進し、駐車場のドアを開けて右の端
+### 2. 国際キャンパス周辺、主に公共交通機関 
+ 
+#### バス便
+   1. 延世大学
+     位置:寮C棟の後ろにあり
+     路線:M6724松島国際キャンパス<->ソウル駅(新村駅経由)
+            9201 ソンホアパート <-> 江南駅 (江南に行ける最も早い経路)
+            303-1 仁川国際空港 <-> 十井洞車庫地(スーツケース持てない)
+            1302極地研究所<->ソウル駅(運行時間は長い)
+ 
+   2. キャンパスタウン駅
+     路線: 6777-1 仁川国際空港 <-> 仁川バスターミナル(キャリーを持って乗ることができる)
+ 
+  !!!! 以上は国際キャンパスにいる学生がよく利用するバス路線です。 他のバス路線もありますので皆さん探してみてください！
+           
+#### 地下鉄の便 
+キャンパスタウン駅 
+ 路線:仁川1号線松島月光祭り公園駅<->桂陽駅
+ 乗換駅:ウォンインジェ駅:スインブンダン線
+         インチョンシチョン:仁川2号線
+         プピョン駅:1号線
+         プピョンクチョン駅:7号線
+         ケヤン駅:空港鉄道
+ 
+## 6. GLC各学生会インスタ紹介
+ 
+  1. GLC 学生会: glc_pixel
+  2. 国際通商専攻 学生会: yonsei_ic
+  3. 文化メディア専攻学生会:panorama_yonsei
+  4. 応用情報専攻 学生会: yonsei_aie
+  5. 外国人学生会:yonseiglc_revo
 
-### Headings
 
-```text
-# H1
-
-## H2
-
-### H3
-
-#### H4
-
-##### H5
-
-###### H6
-
-```
-
-# H1
-
-## H2
-
-### H3
-
-#### H4
-
-##### H5
-
-###### H6
-
-### Paragraph
-
-Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.
-
-Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.
-
-### Images
-
-Relative image in the /public folder
-
-```markdown
-![blog placeholder](/open-graph.jpg)
-```
-
-![blog placeholder](/open-graph.jpg)
-
-Relative Image in the same folder as the markdown
-
-```markdown
-![Test Relative Image](./spongebob.png)
-```
-
-![Test Relative Image](./spongebob.png)
-
-## Blockquotes
-
-The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a `footer` or `cite` element, and optionally with in-line changes such as annotations and abbreviations.
-
-### Blockquote without attribution
-
-#### Syntax
-
-```markdown
-> Tiam, ad mint andaepu dandae nostion secatur sequo quae.  
-> **Note** that you can use _Markdown syntax_ within a blockquote.
-```
-
-#### Output
-
-> Tiam, ad mint andaepu dandae nostion secatur sequo quae.  
-> **Note** that you can use _Markdown syntax_ within a blockquote.
-
-### Blockquote with attribution
-
-#### Syntax
-
-```markdown
-> Don't communicate by sharing memory, share memory by communicating.<br>
-> — <cite>Rob Pike[^1]</cite>
-```
-
-#### Output
-
-> Don't communicate by sharing memory, share memory by communicating.<br>
-> — <cite>Rob Pike[^1]</cite>
-
-[^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
-
-## Tables
-
-#### Syntax
-
-```markdown
-| Italics   | Bold     | Code   |
-| --------- | -------- | ------ |
-| _italics_ | **bold** | `code` |
-```
-
-#### Output
-
-| Italics   | Bold     | Code   |
-| --------- | -------- | ------ |
-| _italics_ | **bold** | `code` |
-
-## Code Blocks
-
-#### Syntax
-
-we can use 3 backticks ``` in new line and write snippet and close with 3 backticks on new line and to highlight language specific syntac, write one word of language name after first 3 backticks, for eg. html, javascript, css, markdown, typescript, txt, bash
-
-````markdown
-```html
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <title>Example HTML5 Document</title>
-  </head>
-  <body>
-    <p>Test</p>
-  </body>
-</html>
-```
-````
-
-Output
-
-```html
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <title>Example HTML5 Document</title>
-  </head>
-  <body>
-    <p>Test</p>
-  </body>
-</html>
-```
-
-## List Types
-
-### Ordered List
-
-#### Syntax
-
-```markdown
-1. First item
-2. Second item
-3. Third item
-```
-
-#### Output
-
-1. First item
-2. Second item
-3. Third item
-
-### Unordered List
-
-#### Syntax
-
-```markdown
-- List item
-- Another item
-- And another item
-```
-
-#### Output
-
-- List item
-- Another item
-- And another item
-
-### Nested list
-
-#### Syntax
-
-```markdown
-- Fruit
-  - Apple
-  - Orange
-  - Banana
-- Dairy
-  - Milk
-  - Cheese
-```
-
-#### Output
-
-- Fruit
-  - Apple
-  - Orange
-  - Banana
-- Dairy
-  - Milk
-  - Cheese
-
-## Other Elements — abbr, sub, sup, kbd, mark
-
-#### Syntax
-
-```markdown
-<abbr title="Graphics Interchange Format">GIF</abbr> is a bitmap image format.
-
-H<sub>2</sub>O
-
-X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
-
-Press <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd></kbd> to end the session.
-
-Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
-```
-
-#### Output
-
-<abbr title="Graphics Interchange Format">GIF</abbr> is a bitmap image format.
-
-H<sub>2</sub>O
-
-X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
-
-Press <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd></kbd> to end the session.
-
-Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
