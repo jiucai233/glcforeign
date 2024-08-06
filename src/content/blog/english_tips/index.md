@@ -70,7 +70,7 @@ Documents required for activation
 
 ## 2. Guideline for university application using
 ### Yammi
-![Test Relative Image](./yammi.png)
+![Test Relative Image](./yammi.jpg)
 Student restaurant paying application: **online payment method needed**
 The Yammi app is available on both campuses and allows you to pay online for food in the student restaurant. You can also order the thousand won Breakfast, which is an ongoing program at the university in Korea, after your student ID is verified on Yammi. You can also view photos, reviews, and comments about the food. In addition, you can also order online from the school cafe with the Yammi app. You must have a debit card to pay, so a bank card or online payment method is required. 
 #### Guideline for using Yammi application (dorm restaurant, student restaurant, beverage etc.) : 
