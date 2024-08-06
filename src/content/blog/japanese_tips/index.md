@@ -1,10 +1,10 @@
 ---
-title: "日本语"
-summary: ""
+title: "新入生の秘訣"
+summary: "延世大学への入学を歓迎します"
 date: "2024.8.6"
 draft: false
 tags:
-- Tutorial
+- 日本語
 - 꿀팁
 - 신입생
 ---
