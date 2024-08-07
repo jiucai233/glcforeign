@@ -79,7 +79,7 @@ Download the Yammi app→ Choose your school (Yonsei University(International))�
 → Select a menu and click the Add button to Cart
 → Add the payment information→ Pay 
 → Get food with QR codes. 
-- The **cash payment is unavailable** on the Yummy app, if you don't have an account or want to pay with cash, you can pay at the cashier at each restaurant/coffee shop.
+- The **cash payment is unavailable** on the Yammi app, if you don't have an account or want to pay with cash, you can pay at the cashier at each restaurant/coffee shop.
 
 ### Everytime 
 ![Test Relative Image](./everytime.png)
@@ -107,7 +107,7 @@ Commercial facilities connected to the 1st basement floor of Underwood Memorial 
 •1st floor - Information Commons: You can receive reservation books, campus loan books, mutual loans, and accompanying materials at the user integrated service desk.
 •2nd floor - Multimedia Center: Media viewing room. There is a reading room and you can read 
 •4th floor – Library classroom: Lectures, new books, and RC recommendation books are provided. There are nine egg-shaped four-colored sofa named 'Fanse'. When you sit on the four-story Fanse, you can read various magazines and see the sea.
-•5th floor - Materials reading room: Books with claim number 000-699 are located.
+•5th floor - Materials reading room: Books with claim number 000 to 699 are located.
 •6th floor - Materials reading room: Books with claim number 700 to 999 are located.
 •7th floor - International conference hall: Seminar room, unmanned lounge and terrace lounge.
 
