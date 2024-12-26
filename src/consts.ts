@@ -2,9 +2,9 @@ import type { Site, Page, Links, Socials } from "@types"
 
 // Global
 export const SITE: Site = {
-  TITLE: "REVO",
-  DESCRIPTION: "REVO.",
-  AUTHOR: "REVO",
+  TITLE: "SEUM",
+  DESCRIPTION: "SEUM",
+  AUTHOR: "SEUM",
 }
 
 // Work Page
@@ -22,7 +22,7 @@ export const BLOG: Page = {
 // Projects Page 
 export const PROJECTS: Page = {
   TITLE: "Projects",
-  DESCRIPTION: "Recent projects I have worked on.",
+  DESCRIPTION: "Recent projects we have worked on.",
 }
 
 // Search Page
@@ -56,14 +56,14 @@ export const SOCIALS: Socials = [
   { 
     NAME: "Email",
     ICON: "email", 
-    TEXT: "revo@gmail.com",
-    HREF: "mailto:revo@gmail.com",
+    TEXT: "glcforeign@gmail.com",
+    HREF: "glcforeign@gmail.com",
   },
   { 
     NAME: "Instagram",
     ICON: "instagram",
-    TEXT: "Revo",
-    HREF: "https://www.instagram.com/yonseiglc_revo/"
+    TEXT: "SEUM",
+    HREF: "https://www.instagram.com/yonseiglc_seum/"
   },
 
 ]
