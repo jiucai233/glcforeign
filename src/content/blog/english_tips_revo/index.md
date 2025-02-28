@@ -1,5 +1,5 @@
 ---
-title: "Living tips for Freshman"
+title: "Living tips for Freshman24-2"
 summary: "Hello, this is <REVO>, the 5th Global Leaders College Foreign Students Council 'Creating a better today, bring a new tomorrow'. We would like to congratulate you on your admission to Yonsei University. The Foreign Students Council has prepared freshman tips to help you adapt to university life as quickly as possible.We hope that you will read these tips carefully and have a great time at Yonsei University. In the future, REVO will do our best to create a better learning environment and welfare for foreign students. Please continue to pay attention to our organization. Thank you."
 date: "2024.8.6"
 draft: false
